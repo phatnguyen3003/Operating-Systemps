@@ -1,7 +1,8 @@
 # Operating-Systems
 
-This mini project is my first repository on GitHub, i made it on my Operating Systems subject.
-The project name is Process Scheduling Strategy that will help you process the input in input.txt and return the answer in output.txt, which you will choose the algorithm on the terminal.
+This mini project is my first repository on GitHub. I made it for my Operating Systems course.
+The project is called Process Scheduling Strategy, and it helps you process the input from input.txt and generate the result in output.txt.
+You can choose the scheduling algorithm directly in the terminal.
 
 # Example:
 <h4>input.txt</h4>
