@@ -1,0 +1,7 @@
+Vi tri dau doc ban dau: 100
+Danh sach yeu cau: 90 120 84 70 140 180 25 50 
+
+=== C-SCAN (right) ===
+Chuoi da xu ly la: 100 -> 120 -> 140 -> 180 -> 199 -> 0 -> 25 -> 50 -> 70 -> 84 -> 90
+Tong khoang cach dau doc di chuyen: 388
+
